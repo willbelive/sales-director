@@ -2,7 +2,7 @@ Got it. Here's the rubric with those substitutions applied cleanly throughout:
 
 ---
 
-# Scoring Rubric: Sales Director 010
+# Scoring Rubric: Sales Director
 
 This challenge-specific rubric supplements the scoring.md 
 
