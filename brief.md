@@ -1,3 +1,7 @@
+Here's the candidate brief, cleaned up and aligned with everything we've built so far:
+
+---
+
 # Challenge: Sales Director
 
 ## Player-Coach: Build the Revenue Engine
@@ -8,7 +12,7 @@ You're the new Sales Director (Player-Coach) at a growth agency mid-transition f
 
 **The Company: Will Be Live**
 - ~45-person digital marketing agency (SEO, Paid Media, Creative, CRO)
-- Working with LinkedIn, ABB, Adidas clients
+- Enterprise client roster
 - Average agency deal: high five-figure MRR
 
 **Three Business Lines**
@@ -16,13 +20,13 @@ You're the new Sales Director (Player-Coach) at a growth agency mid-transition f
 | Business | Type | Description |
 |----------|------|-------------|
 | Will Be Live (Agency) | Services | Full-service digital marketing: Demand Creation, Brand Strategy, Paid Media, Creative, CRO. Enterprise clients. |
-| WillFlow | SaaS | AI-powered content optimization. Recently launched. Primary growth lever for TES transformation. |
+| WillFlow | SaaS | AI-powered content optimization. Recently launched. Primary growth lever for the TAS transformation. |
 | LiveLink | SaaS | Personalized LinkedIn ad and landing page platform. Enterprise software customers. Stable revenue. |
 
 - Targeting aggressive revenue growth this year
-- Goal: 50% TES (tech-enabled services) revenue by 2028
-- CEO Nima Mirpourian hosts a number of dinners and has an active network across North America and the Middle East 
-  
+- Goal: 50% TAS (Technology-Augmented Services) revenue by 2028
+- CEO Nima Mirpourian hosts a number of dinners and has an active network across North America and the Middle East
+
 **Your Quota & Team**
 
 | Metric | Target |
@@ -54,13 +58,13 @@ This is a 3-part challenge. We will run Claude on the exact same prompts and com
 
 Tell us why you want THIS role at THIS company. Not a generic cover letter. We want to see:
 
-1. **Your thesis on selling the agency-to-TAS (Technology as a Service) transition.** How do you pitch a company that's both a services firm and a product company? What's the hardest part? How have you done something similar before?
+1. **Your thesis on selling the agency-to-TAS (Technology-Augmented Services) transition.** How do you pitch a company that's both a services firm and a product company? What's the hardest part? How have you done something similar before?
 
 2. **How you'd carry a personal quota AND lead a team.** Specific time allocation. How do you avoid being the bottleneck? When do you jump on a deal vs. coach a rep through it?
 
 3. **What you already know about Will Be Live's market position, competitors, and opportunity.** Name specifics. Show your research.
 
-**What a great answer looks like:** You've studied our positioning, reviewed Nima's content, understand the Will Be Live and TAS thesis, and have a point of view on the hardest challenge we'll face selling this hybrid model.
+**What a great answer looks like:** You've studied our positioning, reviewed Nima Mirpourian's content, understand the Will Be Live and TAS thesis, and have a point of view on the hardest challenge we'll face selling this hybrid model.
 
 **What an instant rejection looks like:** A generic "I'm passionate about sales leadership" letter that could be sent to any agency.
 
@@ -102,11 +106,11 @@ We're an AI-first company. Every department uses AI daily. If you're not fluent,
 
 1. **Your current AI stack for sales.** What tools do you use daily? Not just "I've tried ChatGPT." Show us: what specific sales workflows have you automated or augmented with AI? Give one detailed example with before/after results.
 
-2. **AI-powered prospecting play.** Design a specific outbound sequence for one of our three products (your choice: Will Be Live agency services, WillFlow, or LinkLive). Show how you'd use AI at each step — from ICP research to list building to personalized outreach to follow-up. Be specific enough that we could execute it Monday.
+2. **AI-powered prospecting play.** Design a specific outbound sequence for one of our three products (your choice: Will Be Live agency services, WillFlow, or LiveLink). Show how you'd use AI at each step — from ICP research to list building to personalized outreach to follow-up. Be specific enough that we could execute it Monday.
 
 3. **What sales leaders who ignore AI get wrong.** Give us your honest take on where AI replaces sales activities vs. where human judgment is irreplaceable. What does a Sales Director look like in 2028?
 
-**What a great answer looks like:** You show a real work flow where AI made you measurably faster/better. Your outbound sequence is specific to one of our products (not generic). Your 2028 vision shows you've thought deeply about this, not just read an article about it.
+**What a great answer looks like:** You show a real workflow where AI made you measurably faster/better. Your outbound sequence is specific to one of our products (not generic). Your 2028 vision shows you've thought deeply about this, not just read an article about it.
 
 **What an instant rejection looks like:** "I use ChatGPT for email drafts." No specificity, no results, no point of view.
 
@@ -147,7 +151,7 @@ See [scoring rubric.md](scoring_rubric.md) for the general rubric. Challenge-spe
 
 ---
 
-**Ready to submit?** Apply by sending your answer to admin@willbelive.com**
+**Ready to submit?** Apply by sending your answer to admin@willbelive.com.
 Upload your challenge answer (PDF or Markdown) along with your application.
 
 **Include with your submission:**
