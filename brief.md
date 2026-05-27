@@ -1,7 +1,3 @@
-Here's the candidate brief, cleaned up and aligned with everything we've built so far:
-
----
-
 # Challenge: Sales Director
 
 ## Player-Coach: Build the Revenue Engine
